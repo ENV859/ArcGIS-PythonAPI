@@ -1,0 +1,50 @@
+Firstname,Lastname,email,username,password,role,groups,assigned_state
+Smith,Collins,smith.collins@company.com,smith.collins,COLL@123,org_admin,"Basemaps, Central Services",KS
+Johnson,Stewart,johnson.stewart@company.com,johnson.stewart,STEW@123,org_admin,"Basemaps, Central Services",NV
+Williams,Sanchez,williams.sanchez@company.com,williams.sanchez,SANC@123,org_admin,"Basemaps, Central Services",IN
+Jones,Morris,jones.morris@company.com,jones.morris,MORR@123,org_admin,"Basemaps, Central Services",NC
+Brown,Rogers,brown.rogers@company.com,brown.rogers,ROGE@123,org_admin,"Basemaps, Central Services",AR
+Davis,Reed,davis.reed@company.com,davis.reed,REED@123,org_admin,"Basemaps, Central Services",FL
+Miller,Cook,miller.cook@company.com,miller.cook,COOK@123,org_admin,"Basemaps, Compliance, Central Services",NH
+Wilson,Morgan,wilson.morgan@company.com,wilson.morgan,MORG@123,org_admin,"Basemaps, Compliance, Central Services",ID
+Moore,Bell,moore.bell@company.com,moore.bell,BELL@123,org_admin,"Basemaps, Compliance, Central Services",AZ
+Taylor,Murphy,taylor.murphy@company.com,taylor.murphy,MURP@123,org_publisher,"Basemaps, Compliance, Central Services",LA
+Anderson,Bailey,anderson.bailey@company.com,anderson.bailey,BAIL@123,org_publisher,"Basemaps, Compliance, Central Services",NY
+Thomas,Rivera,thomas.rivera@company.com,thomas.rivera,RIVE@123,org_publisher,"Basemaps, Compliance, Central Services",MS
+Jackson,Cooper,jackson.cooper@company.com,jackson.cooper,COOP@123,org_publisher,"Basemaps, Compliance, Central Services",WI
+White,Richardson,white.richardson@company.com,white.richardson,RICH@123,org_publisher,"Basemaps, Compliance",WA
+Harris,Cox,harris.cox@company.com,harris.cox,HCOX@123,org_publisher,"Basemaps, Compliance",MI
+Martin,Howard,martin.howard@company.com,martin.howard,HOWA@123,org_publisher,"Basemaps, Compliance",VA
+Thompson,Ward,thompson.ward@company.com,thompson.ward,WARD@123,org_publisher,"Basemaps, Compliance",TX
+Garcia,Torres,garcia.torres@company.com,garcia.torres,TORR@123,org_publisher,"Basemaps, Compliance",MA
+Martinez,Peterson,martinez.peterson@company.com,martinez.peterson,PETE@123,org_publisher,"Basemaps, Compliance",AL
+Robinson,Gray,robinson.gray@company.com,robinson.gray,GRAY@123,org_publisher,"Basemaps, Customer Service, Finance, Billing and Accounting",IL
+Clark,Ramirez,clark.ramirez@company.com,clark.ramirez,RAMI@123,org_publisher,"Basemaps, Customer Service, Finance, Billing and Accounting",NJ
+Rodriguez,James,rodriguez.james@company.com,rodriguez.james,JAME@123,org_publisher,"Basemaps, Customer Service, Finance, Billing and Accounting",DE
+Lewis,Watson,lewis.watson@company.com,lewis.watson,WATS@123,org_publisher,"Basemaps, Customer Service, Finance, Billing and Accounting",PA
+Lee,Brooks,lee.brooks@company.com,lee.brooks,BROO@123,org_publisher,"Basemaps, Customer Service, Finance, Billing and Accounting, Central Services",CT
+Walker,Kelly,walker.kelly@company.com,walker.kelly,KELL@123,org_user,"Basemaps, Demographic Content, Compliance",FM
+Hall,Sanders,hall.sanders@company.com,hall.sanders,SAND@123,org_user,"Basemaps, Demographic Content, Compliance",MT
+Allen,Price,allen.price@company.com,allen.price,PRIC@123,org_user,"Basemaps, Demographic Content, Compliance",OH
+Young,Bennett,young.bennett@company.com,young.bennett,BENN@123,org_user,"Basemaps, Demographic Content, Compliance",IA
+Hernandez,Wood,hernandez.wood@company.com,hernandez.wood,WOOD@123,org_user,"Basemaps, Demographic Content, Compliance",KY
+King,Barnes,king.barnes@company.com,king.barnes,BARN@123,org_user,"Basemaps, Demographic Content, Compliance",GA
+Wright,Ross,wright.ross@company.com,wright.ross,ROSS@123,org_user,"Basemaps, Demographic Content, Compliance",WV
+Lopez,Henderson,lopez.henderson@company.com,lopez.henderson,HEND@123,org_user,"Basemaps, Demographic Content, Compliance",MD
+Hill,Coleman,hill.coleman@company.com,hill.coleman,COLE@123,org_user,"Basemaps, Demographic Content, Compliance",VT
+Scott,Jenkins,scott.jenkins@company.com,scott.jenkins,JENK@123,org_user,"Basemaps, Demographic Content, Compliance",AK
+Green,Perry,green.perry@company.com,green.perry,PERR@123,org_user,"Basemaps, Demographic Content, Compliance",ME
+Adams,Powell,adams.powell@company.com,adams.powell,POWE@123,org_user,"Basemaps, Demographic Content, Central Services",SC
+Baker,Long,baker.long@company.com,baker.long,LONG@123,org_user,"Basemaps, Demographic Content, Central Services",WY
+Gonzalez,Patterson,gonzalez.patterson@company.com,gonzalez.patterson,PATT@123,org_user,"Basemaps, Demographic Content, Central Services",UT
+Nelson,Hughes,nelson.hughes@company.com,nelson.hughes,HUGH@123,org_user,"Basemaps, Demographic Content, Central Services",NE
+Carter,Flores,carter.flores@company.com,carter.flores,FLOR@123,org_user,"Basemaps, Demographic Content, Central Services",PR
+Mitchell,Washington,mitchell.washington@company.com,mitchell.washington,WASH@123,org_user,"Basemaps, Demographic Content, Central Services",SD
+Perez,Butler,perez.butler@company.com,perez.butler,BUTL@123,org_user,"Basemaps, Demographic Content, Central Services",CA
+Roberts,Simmons,roberts.simmons@company.com,roberts.simmons,SIMM@123,org_user,"Basemaps, Demographic Content, Central Services",NM
+Turner,Foster,turner.foster@company.com,turner.foster,FOST@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",TN
+Phillips,Gonzales,phillips.gonzales@company.com,phillips.gonzales,GONZ@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",MO
+Campbell,Bryant,campbell.bryant@company.com,campbell.bryant,BRYA@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",ND
+Parker,Alexander,parker.alexander@company.com,parker.alexander,ALEX@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",OR
+Evans,Russell,evans.russell@company.com,evans.russell,RUSS@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",MN
+Edwards,Griffin,edwards.griffin@company.com,edwards.griffin,GRIF@123,org_user,"Basemaps, Demographic Content, Customer Service, Finance, Billing and Accounting",CO
