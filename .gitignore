@@ -3,30 +3,3 @@
 *checkpoint.ipynb
 *.lnk
 
-03_Python/Notebooks/.ipynb_checkpoints/*
-03_Python/Notebooks/2014_fall_ASTR599-master
-03_Python/Notebooks
-
-05_BeyondArcPy/Notebooks/.ipynb_checkpoints/*
-06_WebGIS/Notebooks/.ipynb_checkpoints/*
-
-ESRIPythonAPI/*
-
-#SciComp
-
-SciComp/DataPrep
-SciComp/AquaticScripts
-SciComp/NHDStreamCat/*.zip
-SciComp/NHDStreamCat/StreamCat/*
-SciComp/NHDStreamCat/NHD_H_Maryland_Shape/Shape/*.*
-SciComp/.ipynb_checkpoints
-SciComp/notebooks/.ipynb_checkpoints
-SciComp/figs
-SciComp/Using geopandas on Windows - Geoff Boeing_files/*
-06_WebGIS/WebGIS01-BigData.pptx
-06_WebGIS/WebGIS02-WebServices.pptx
-
-
-02_AdvGeoprocessing/HurricaneMapper/*
-02_AdvGeoprocessing/HM2_ReadyWorkspace/*
-03_Python/PS2/jupyter859.lnk
