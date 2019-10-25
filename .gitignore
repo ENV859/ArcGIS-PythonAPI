@@ -1,5 +1,5 @@
 #Ignore Python notebook checkpoints
 */.ipynb_checkpoints/*
 *checkpoint.ipynb
-*.lnk
+
 
