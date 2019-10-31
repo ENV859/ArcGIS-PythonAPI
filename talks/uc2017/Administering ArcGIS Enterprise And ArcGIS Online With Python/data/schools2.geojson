@@ -1,0 +1,352 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "id": "979962392", "name": "Garrick Memorial Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6020053, 6.331469 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "id": "1995053430", "name": "DIVINE LIGHT GROUP OF SCHOOL" }, "geometry": { "type": "Point", "coordinates": [ 5.572296, 6.3561314 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "id": "2072662085", "name": "Divine Light Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.5722462, 6.356096 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "id": "2075846044", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "id": "2075846062", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "id": "2075846078", "name": "Ebenezer Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.618255, 6.3088874 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "id": "2075846107", "name": "F.s.p Creche Nusary and primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6233252, 6.3123454 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "id": "2075846121", "name": "Fresh Olive School" }, "geometry": { "type": "Point", "coordinates": [ 5.6223226, 6.3088468 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "id": "2075846147", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6269978, 6.3107649 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "id": "2075846149", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6275626, 6.3110792 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "id": "2075846211", "name": "Metropolitan Institute of Technology" }, "geometry": { "type": "Point", "coordinates": [ 5.625294, 6.3045686 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "id": "2075846328", "name": "Redeemer Int. Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6263403, 6.3062667 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "id": "2075846364", "name": "St Mary Dedidcation Brithish School" }, "geometry": { "type": "Point", "coordinates": [ 5.627816, 6.3117773 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "id": "2152941158", "name": "Abundant Grace School" }, "geometry": { "type": "Point", "coordinates": [ 5.6097525, 6.3081437 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "id": "2152942264", "name": "Amena International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005738, 6.3060197 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "id": "2152942576", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "id": "2152949243", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "id": "2152957153", "name": "Bro Pius School" }, "geometry": { "type": "Point", "coordinates": [ 5.6128811, 6.3282314 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "id": "2152965803", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069815, 6.3046894 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "id": "2152965808", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069514, 6.3047144 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "id": "2152973405", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "id": "2153200152", "name": "Diamond School Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6039629, 6.3050519 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "id": "2153201053", "name": "Ebenezer Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.618255, 6.3088874 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "id": "2153203977", "name": "Emanuel Foundation School" }, "geometry": { "type": "Point", "coordinates": [ 5.5974794, 6.3076661 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "id": "2153203984", "name": "Esonere model primary school\/Gaorge Idah" }, "geometry": { "type": "Point", "coordinates": [ 5.6153175, 6.3100917 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "id": "2153203985", "name": "Esonere model primary school\/Gaorge Idah" }, "geometry": { "type": "Point", "coordinates": [ 5.6149264, 6.3101945 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "id": "2153204363", "name": "Ezoti Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6167001, 6.3283772 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "id": "2153204364", "name": "F.s.p Creche Nusary and primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6233252, 6.3123454 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "id": "2153224660", "name": "Abundant Grace School" }, "geometry": { "type": "Point", "coordinates": [ 5.6097525, 6.3081437 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "id": "2154116003", "name": "Abundant Grace School" }, "geometry": { "type": "Point", "coordinates": [ 5.6097525, 6.3081437 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "id": "2154224029", "name": "Abundant Grace School" }, "geometry": { "type": "Point", "coordinates": [ 5.6097525, 6.3081437 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "id": "2154478302", "name": "Amena International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005738, 6.3060197 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "id": "2154478555", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "id": "2154487263", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "id": "2154502212", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069815, 6.3046894 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "id": "2154536937", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069815, 6.3046894 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "id": "2154536938", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069514, 6.3047144 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "id": "2154537229", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "id": "2154539683", "name": "Diamond School Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6039629, 6.3050519 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "id": "2154540849", "name": "Ebenezer Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.618255, 6.3088874 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "id": "2154542858", "name": "Emanuel Foundation School" }, "geometry": { "type": "Point", "coordinates": [ 5.5974794, 6.3076661 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "id": "2154543176", "name": "Esonere model primary school\/Gaorge Idah" }, "geometry": { "type": "Point", "coordinates": [ 5.6153175, 6.3100917 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "id": "2154544911", "name": "F.s.p Creche Nusary and primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6233252, 6.3123454 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "id": "2154545449", "name": "Favour Group Of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6304738, 6.3326295 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "id": "2154558721", "name": "Great Oxford Int. Group Of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6325843, 6.3265638 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "id": "2154558834", "name": "Greter tomorro nurstry and primary school" }, "geometry": { "type": "Point", "coordinates": [ 5.6177719, 6.3101844 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "id": "2154559294", "name": "Holy Mary Comprehensive College" }, "geometry": { "type": "Point", "coordinates": [ 5.631012, 6.3235126 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "id": "2154568969", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6269978, 6.3107649 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "id": "2154569076", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6275626, 6.3110792 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "id": "2154571178", "name": "Lovers of Christ Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6123332, 6.3073463 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "id": "2154576178", "name": "Metropolitan Institute of Technology" }, "geometry": { "type": "Point", "coordinates": [ 5.625294, 6.3045686 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "id": "2154577676", "name": "Milkon institute of information technology" }, "geometry": { "type": "Point", "coordinates": [ 5.615631, 6.3130978 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "id": "2155626262", "name": "Amena International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005738, 6.3060197 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "id": "2155626264", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "id": "2155627985", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "id": "2155672329", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "id": "2155675741", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "id": "2155681904", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "id": "2155689034", "name": "Ebenezer Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.618255, 6.3088874 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "id": "2155691007", "name": "Esonere model primary school\/Gaorge Idah" }, "geometry": { "type": "Point", "coordinates": [ 5.6153175, 6.3100917 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "id": "2155691011", "name": "F.s.p Creche Nusary and primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6233252, 6.3123454 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "id": "2155692120", "name": "Fresh Olive School" }, "geometry": { "type": "Point", "coordinates": [ 5.6223226, 6.3088468 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "id": "2155693240", "name": "Great Oxford Int. Group Of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6325843, 6.3265638 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "id": "2155694047", "name": "Greter tomorro nurstry and primary school" }, "geometry": { "type": "Point", "coordinates": [ 5.6177719, 6.3101844 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "id": "2155694554", "name": "Holy Mary Comprehensive College" }, "geometry": { "type": "Point", "coordinates": [ 5.631012, 6.3235126 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "id": "2155695716", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6269978, 6.3107649 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "id": "2155695718", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6275626, 6.3110792 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "id": "2155704340", "name": "Metropolitan Institute of Technology" }, "geometry": { "type": "Point", "coordinates": [ 5.625294, 6.3045686 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "id": "2155704703", "name": "Milkon institute of information technology" }, "geometry": { "type": "Point", "coordinates": [ 5.615631, 6.3130978 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "id": "2155707207", "name": "Ogbe Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6163843, 6.3301205 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "id": "2155711299", "name": "Phelim School" }, "geometry": { "type": "Point", "coordinates": [ 5.6197271, 6.3030319 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "id": "2155719063", "name": "Redeemer Int. Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6263403, 6.3062667 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "id": "2155730622", "name": "South Point Royal School" }, "geometry": { "type": "Point", "coordinates": [ 5.6130292, 6.322755 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "id": "2155730730", "name": "St Mary Dedidcation Brithish School" }, "geometry": { "type": "Point", "coordinates": [ 5.627816, 6.3117773 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "id": "2155736893", "name": "Uvbi Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.634085, 6.3276686 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "id": "2155736894", "name": "Uwa Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6336526, 6.3296027 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "id": "2155738655", "name": "Winrose Group Of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6323569, 6.3199908 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "id": "2155738915", "name": "Zion Faith Group Of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6303849, 6.3277633 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "id": "2160629556", "name": "Amena International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005738, 6.3060197 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "id": "2160629558", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "id": "2160629559", "name": "Arisen Grace &amp; Faith Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6320162, 6.3295589 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "id": "2160629647", "name": "Asoro Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6258209, 6.3305854 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "id": "2160633600", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "id": "2160645827", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069815, 6.3046894 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "id": "2160645848", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069514, 6.3047144 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "id": "2160723682", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "id": "2161036868", "name": "Amena International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005738, 6.3060197 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "id": "2161036881", "name": "Arinze Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6322456, 6.3216861 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "id": "2161037786", "name": "Benhill Vocational Training Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6232117, 6.3179068 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "id": "2161040908", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069815, 6.3046894 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "id": "2161041026", "name": "Ceta International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6069514, 6.3047144 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "id": "2161043556", "name": "Command Children School" }, "geometry": { "type": "Point", "coordinates": [ 5.620225, 6.3125176 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "id": "2161047661", "name": "Diamond School Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6039629, 6.3050519 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "id": "2161048044", "name": "Ebenezer Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.618255, 6.3088874 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "id": "2161048857", "name": "Emanuel Foundation School" }, "geometry": { "type": "Point", "coordinates": [ 5.5974794, 6.3076661 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "id": "2161049699", "name": "Esonere model primary school\/Gaorge Idah" }, "geometry": { "type": "Point", "coordinates": [ 5.6153175, 6.3100917 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "id": "2161050322", "name": "F.s.p Creche Nusary and primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6233252, 6.3123454 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "id": "2161051157", "name": "Firm Foundation Adult Education Center" }, "geometry": { "type": "Point", "coordinates": [ 5.6321197, 6.3361639 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "id": "2161055314", "name": "Great Oxford Int. Group Of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6325843, 6.3265638 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "id": "2161055917", "name": "Greter tomorro nurstry and primary school" }, "geometry": { "type": "Point", "coordinates": [ 5.6177719, 6.3101844 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "id": "2161056747", "name": "Holy Mary Comprehensive College" }, "geometry": { "type": "Point", "coordinates": [ 5.631012, 6.3235126 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "id": "2161058131", "name": "Igbesamwan Model Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6315929, 6.333199 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "id": "2161059284", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6269978, 6.3107649 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "id": "2161059285", "name": "Inomwan Fundation Secondary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6275626, 6.3110792 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "id": "2161062709", "name": "Lovers of Christ Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6123332, 6.3073463 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "id": "2161069045", "name": "Metropolitan Institute of Technology" }, "geometry": { "type": "Point", "coordinates": [ 5.625294, 6.3045686 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "id": "2161069425", "name": "Milkon institute of information technology" }, "geometry": { "type": "Point", "coordinates": [ 5.615631, 6.3130978 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "id": "2161072031", "name": "Oredo girls junior\/ senior secondary school" }, "geometry": { "type": "Point", "coordinates": [ 5.6298393, 6.3235292 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "id": "2161072277", "name": "Oza Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6298482, 6.3329287 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "id": "2161073179", "name": "Prime Meridian School" }, "geometry": { "type": "Point", "coordinates": [ 5.611681, 6.307295 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "id": "2161074335", "name": "Redeemer Int. Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6263403, 6.3062667 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "id": "2161074487", "name": "Royal Foundation School" }, "geometry": { "type": "Point", "coordinates": [ 5.6075635, 6.3129482 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "id": "2161074980", "name": "ST. Mary Dedication Education Centre" }, "geometry": { "type": "Point", "coordinates": [ 5.6173719, 6.3219114 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "id": "2161101317", "name": "St Mary Dedidcation Brithish School" }, "geometry": { "type": "Point", "coordinates": [ 5.627816, 6.3117773 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "id": "2161108592", "name": "The Jesus Missionary International School" }, "geometry": { "type": "Point", "coordinates": [ 5.6310783, 6.3328396 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "id": "2161111258", "name": "Unique Touch School" }, "geometry": { "type": "Point", "coordinates": [ 5.5977883, 6.310389 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "id": "2161111329", "name": "Uvbi Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.634085, 6.3276686 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "id": "2161111330", "name": "Uwa Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6336526, 6.3296027 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "id": "2161118881", "name": "Wilbraham Nursery\/ pry School" }, "geometry": { "type": "Point", "coordinates": [ 5.601133, 6.314507 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "id": "2161118909", "name": "Winrose Group Of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6323569, 6.3199908 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "id": "2161119663", "name": "Zion Faith Group Of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6303849, 6.3277633 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "id": "2344220863", "name": "Autie Rose Foundation Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6025076, 6.3418138 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "id": "2344220897", "name": "Ozomo Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6005261, 6.3423646 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "id": "2344220917", "name": "Word of Faith Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6024427, 6.3412007 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "id": "2344236535", "name": "Faithland group of school" }, "geometry": { "type": "Point", "coordinates": [ 5.5936219, 6.3289905 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "id": "2344236536", "name": "Franej group of school" }, "geometry": { "type": "Point", "coordinates": [ 5.5917519, 6.3258856 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "id": "2344236548", "name": "Young scholars academy school" }, "geometry": { "type": "Point", "coordinates": [ 5.5937372, 6.3256295 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "id": "2344258137", "name": "Pame Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.611326, 6.340536 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "id": "2344258146", "name": "Unival Computer School" }, "geometry": { "type": "Point", "coordinates": [ 5.611569, 6.343541 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "id": "2344258148", "name": "Uyiosa Nursery\/Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6113201, 6.3397817 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "id": "2344263193", "name": "Diamond care nursery and primary school" }, "geometry": { "type": "Point", "coordinates": [ 5.599496, 6.3259676 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "id": "2344263201", "name": "Southern Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.5983516, 6.330778 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "id": "2344263205", "name": "Young ScholarAcademy Secondry School" }, "geometry": { "type": "Point", "coordinates": [ 5.5987308, 6.3295748 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "id": "2344305772", "name": "Dadu primary school" }, "geometry": { "type": "Point", "coordinates": [ 5.5960541, 6.334318 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "id": "2344316132", "name": "Amazing grace nur\/pry" }, "geometry": { "type": "Point", "coordinates": [ 5.6085826, 6.3336947 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "id": "2344316143", "name": "Malachi Memorial school" }, "geometry": { "type": "Point", "coordinates": [ 5.6073849, 6.3307031 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "id": "2344328605", "name": "Newsky international secondary school" }, "geometry": { "type": "Point", "coordinates": [ 5.5972894, 6.3476159 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "id": "2344328621", "name": "Legacy Nursery &amp; Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6012279, 6.3239316 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "id": "2344414249", "name": "Pencil Nursery\/ Primary" }, "geometry": { "type": "Point", "coordinates": [ 5.6045582, 6.3344108 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "id": "2344466064", "name": "Omo group of schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6289511, 6.3268901 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "id": "2344468635", "name": "Eware Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6088002, 6.344436 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "id": "2344468642", "name": "Legend School" }, "geometry": { "type": "Point", "coordinates": [ 5.6099618, 6.3431044 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "id": "2344468648", "name": "Royal Kiddies Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.6078196, 6.3450213 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "id": "2344468681", "name": "Unibound International Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6072091, 6.3439796 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "id": "2344503125", "name": "Ighile Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.5908375, 6.3288804 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "id": "2344503128", "name": "Southern Academy School" }, "geometry": { "type": "Point", "coordinates": [ 5.5939697, 6.3308723 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "id": "2344512244", "name": "Okai Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6166958, 6.3359647 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "id": "2344519167", "name": "God&apos;s Path Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.602152, 6.344241 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "id": "2344519169", "name": "Man Prof High School" }, "geometry": { "type": "Point", "coordinates": [ 5.6009691, 6.3452854 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "id": "2344519171", "name": "Rokibet Nursery and Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6043417, 6.3432987 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "id": "2344540213", "name": "Ann Marie Memorial  School" }, "geometry": { "type": "Point", "coordinates": [ 5.5977774, 6.3226508 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "id": "2344540218", "name": "Christ The Shepherd International School" }, "geometry": { "type": "Point", "coordinates": [ 5.599227, 6.323771 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "id": "2344584257", "name": "Chinel University Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.5986838, 6.3383011 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "id": "2344584275", "name": "Colombia Academy" }, "geometry": { "type": "Point", "coordinates": [ 5.5959199, 6.337641 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "id": "2344584327", "name": "Victory Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.595709, 6.3388867 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "id": "2344596612", "name": "Precious Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.609282, 6.3424115 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "id": "2344596613", "name": "Precious Group of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6099759, 6.3427827 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "id": "2345400472", "name": "Modellink Group Of School" }, "geometry": { "type": "Point", "coordinates": [ 5.6086752, 6.3489624 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "id": "2345400474", "name": "Oliha Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6057735, 6.3495042 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "id": "2349297920", "name": "St  Paul&apos;s Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6153228, 6.3289487 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "id": "2349475729", "name": "Faith In God Nursery and Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6315132, 6.3446317 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "id": "2349477433", "name": "Peak Foundation school" }, "geometry": { "type": "Point", "coordinates": [ 5.6263293, 6.3395904 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "id": "2350807714", "name": "Dynanic Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6186107, 6.3517235 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "id": "2350807715", "name": "Ihogbe College" }, "geometry": { "type": "Point", "coordinates": [ 5.6172599, 6.3505322 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "id": "2350849585", "name": "Solid Foundation School" }, "geometry": { "type": "Point", "coordinates": [ 5.6190063, 6.3373732 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "id": "2350879748", "name": "Emokpac Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6247174, 6.3395666 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "id": "2350879749", "name": "Fabiye Apatha Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6240481, 6.3459615 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "id": "2350879752", "name": "Gius Obaseki Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6290224, 6.3460217 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "id": "2350879764", "name": "St. Peters Anglican Daycare Nursry\/Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6225311, 6.3441466 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "id": "2350879798", "name": "United Baptist Grammar School" }, "geometry": { "type": "Point", "coordinates": [ 5.6241716, 6.3401686 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "id": "2350879802", "name": "Word of God Group of Schools" }, "geometry": { "type": "Point", "coordinates": [ 5.6242741, 6.3416139 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "id": "2350920099", "name": "Ivbiore Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6134909, 6.3434351 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "id": "2350920101", "name": "Ore-Oghene Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6139076, 6.34562 ] } }
+
+]
+}

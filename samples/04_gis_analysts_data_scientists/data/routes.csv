@@ -1,0 +1,3 @@
+ObjectID,Name,StartDepotName,EndDepotName,EarliestStartTime,LatestStartTime,Capacities,CostPerUnitTime,MaxOrderCount,MaxTotalTime,AssignmentRule
+1,Route1,Warehouse,Warehouse,12/30/1899 8:00:00,12/30/1899 10:00:00,6,20,6,150,1
+2,Route2,Warehouse,Warehouse,12/30/1899 8:00:00,12/30/1899 10:00:00,6,20,6,150,1

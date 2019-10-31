@@ -1,0 +1,11 @@
+First Name,Last Name,Email,Username,Password,Role,groups,assigned_zone,Level
+Smith,Collins,smith.collins@company.com,smith.collins,COLL@123,org_admin,"Basemaps, Damage Assessment",KS,2
+Johnson,Stewart,johnson.stewart@company.com,johnson.stewart,STEW@123,org_user,"Basemaps, Damage Assessment",NV,2
+Williams,Sanchez,williams.sanchez@company.com,williams.sanchez,SANC@123,org_user,"Basemaps, Fire Hazard, Properties at risk",IN,2
+Jones,Morris,jones.morris@company.com,jones.morris,MORR@123,org_user,"Basemaps, Fire Hazard, Properties at risk",NC,2
+Brown,Rogers,brown.rogers@company.com,brown.rogers,ROGE@123,org_user,"Basemaps, Damage Assessment",AR,2
+Davis,Reed,davis.reed@company.com,davis.reed,REED@123,org_admin,"Basemaps, Demographic Content, Properties at risk",FL,2
+Miller,Cook,miller.cook@company.com,miller.cook,COOK@123,org_publisher,"Basemaps, Demographic Content",NH,2
+Wilson,Morgan,wilson.morgan@company.com,wilson.morgan,MORG@123,org_publisher,"Basemaps, Properties at risk, Demographic Content",ID,2
+Moore,Bell,moore.bell@company.com,moore.bell,BELL@123,org_publisher,"Basemaps, Properties at risk, Demographic Content",AZ,2
+Taylor,Murphy,taylor.murphy@company.com,taylor.murphy,MURP@123,org_publisher,"Basemaps, Properties at risk, Demographic Content",LA,2
