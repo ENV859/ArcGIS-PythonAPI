@@ -1,6 +1,7 @@
 #Ignore Python notebook checkpoints
-*/.ipynb_checkpoints/*
 *checkpoint.ipynb
 
+
+DurhamTracts.*
 
 ProblemSet5b.ipynb
