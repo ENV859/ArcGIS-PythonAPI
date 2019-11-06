@@ -1,1 +1,0 @@
-See https://github.com/Esri/arcgis-python-api/tree/master/samples/03_org_administrators/AdminCreatePortal for an equivalent sample.
