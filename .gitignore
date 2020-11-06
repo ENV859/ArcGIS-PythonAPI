@@ -1,6 +1,8 @@
 #Ignore Python notebook checkpoints
 *checkpoint.ipynb
 
+#Ignore ESRI examples
+arcgis-python-api-1*/*
 
 DurhamTracts.*
 
