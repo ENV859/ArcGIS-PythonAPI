@@ -1,11 +1,11 @@
 ---
 Title: ArcGIS Python API
 Class: ENV 859 - Advanced GIS
-Date: Fall 2020
+Date: Fall 2024
 Instructor: John Fay
 ---
 
-<center><a href='./index.html'>ENV 859 - Advanced GIS</a> | Fall 2019 | Instructor: <a href='mailto:john.fay@duke.edu'>John Fay</a> </center>
+<center><a href='https://env859.github.io'>ENV 859 - Advanced GIS</a> | Fall 2024 | Instructor: <a href='mailto:john.fay@duke.edu'>John Fay</a> </center>
 
 # The ArcGIS Python API
 
@@ -14,6 +14,8 @@ This workspace includes a sequence of notebooks to introduce you to the ArcGIS P
 1. Connecting to the ArcGIS Online via the GIS object -- in various ways
 2. Searching for and accessing content served on ArcGIS online
 3. Working with AGOL data, once accessed
+
+They also include some demonstration notebooks
 
 
 
